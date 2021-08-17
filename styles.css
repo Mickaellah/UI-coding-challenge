@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 16px;
+}
+
+img {
+    width: 100%;
+}
+
+ul {
+    padding: 0;
+}
+
+li {
+    list-style: none;
+}
+
+.heading {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navigation-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.try-button {
+    display: none;
+}
